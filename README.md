@@ -4,9 +4,8 @@
 
 - 🌱 Estou estudando Desenvolvimento Web.
 - 💼 Trabalho como Desenvolvedor Full Stack.
-- 🎓 Formação em Ciência da Computação.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Twitter](https://twitter.com/seu-twitter).
-- 😄 Pronomes: Ele/Dele.
+- 🎓 Cursando Ciência da Computação.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
 
 ### Linguagens e Ferramentas
 
