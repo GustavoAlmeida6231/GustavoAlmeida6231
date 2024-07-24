@@ -1,4 +1,27 @@
 ## Hello World, eu sou o Gustavo Almeida
+# Olá, eu sou Gustavo Almeida 👋
+
+### Sobre mim
+
+- 🌱 Estou estudando Desenvolvimento Web.
+- 💼 Trabalho como Desenvolvedor Full Stack.
+- 🎓 Formação em Ciência da Computação.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Twitter](https://twitter.com/seu-twitter).
+- 😄 Pronomes: Ele/Dele.
+
+### Linguagens e Ferramentas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeida6231&layout=compact)
+
+### Projetos
+
+- [Meu Projeto Legal](link-para-o-projeto): Breve descrição do projeto.
+- [Outro Projeto Legal](link-para-o-projeto): Breve descrição do projeto.
+
+### Estatísticas do GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoAlmeida6231&show_icons=true)
+
 <div>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAlmeida6231&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
