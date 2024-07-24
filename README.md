@@ -1,4 +1,3 @@
-## Hello World, eu sou o Gustavo Almeida
 # Olá, eu sou Gustavo Almeida 👋
 
 ### Sobre mim
