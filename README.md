@@ -9,7 +9,7 @@
 
 ### Linguagens e Ferramentas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeida6231&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeida6231&layout=compact&langs_count=7&theme=tokyonight)
 
 ### Projetos
 
@@ -18,7 +18,7 @@
 
 ### Estatísticas do GitHub
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoAlmeida6231&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoAlmeida6231&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 <div>
 
