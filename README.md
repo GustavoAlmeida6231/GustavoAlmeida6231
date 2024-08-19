@@ -2,7 +2,6 @@
 
 ### Sobre mim
 
-- 🌱 Estou estudando Desenvolvimento Web.
 - 💼 Trabalho como Desenvolvedor Full Stack.
 - 🎓 Cursando Ciência da Computação.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
